@@ -1,2 +1,2 @@
 # Hello-Wordl
-Initial Hellow world git hub repository
+Initial Hello world git hub repository
